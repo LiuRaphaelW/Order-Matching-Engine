@@ -1,0 +1,467 @@
+20241011-22:24:04.748591000 : Created session
+20241011-22:24:04.749192000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:24:04.749349000 : Initiated logon request
+20241011-22:24:04.749351000 : Disconnecting
+20241011-22:24:04.749368000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:24:04.749377000 : Disconnecting
+20241011-22:36:12.758012000 : Created session
+20241011-22:36:12.758334000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:36:12.758505000 : Initiated logon request
+20241011-22:36:12.758661000 : Received logout request
+20241011-22:36:12.758686000 : Sending logout response
+20241011-22:36:12.758689000 : Disconnecting
+20241011-22:36:12.758713000 : Initiated logon request
+20241011-22:36:42.722116000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:36:42.722535000 : Initiated logon request
+20241011-22:36:42.723080000 : Received logout request
+20241011-22:36:42.723212000 : Sending logout response
+20241011-22:36:42.723226000 : Disconnecting
+20241011-22:36:42.723315000 : Initiated logon request
+20241011-22:37:12.565189000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:37:12.565538000 : Initiated logon request
+20241011-22:37:12.566130000 : Received logout request
+20241011-22:37:12.566247000 : Sending logout response
+20241011-22:37:12.566254000 : Disconnecting
+20241011-22:37:12.566319000 : Initiated logon request
+20241011-22:37:42.301031000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:37:42.301461000 : Initiated logon request
+20241011-22:37:42.301941000 : Received logout request
+20241011-22:37:42.302103000 : Sending logout response
+20241011-22:37:42.302112000 : Disconnecting
+20241011-22:37:42.302197000 : Initiated logon request
+20241011-22:38:12.902839000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:38:12.903204000 : Initiated logon request
+20241011-22:38:12.903657000 : Received logout request
+20241011-22:38:12.903712000 : Sending logout response
+20241011-22:38:12.903719000 : Disconnecting
+20241011-22:38:12.903785000 : Initiated logon request
+20241011-22:38:42.407733000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:38:42.408114000 : Initiated logon request
+20241011-22:38:42.408446000 : Received logout request
+20241011-22:38:42.408552000 : Sending logout response
+20241011-22:38:42.408566000 : Disconnecting
+20241011-22:38:42.408661000 : Initiated logon request
+20241011-22:39:12.774912000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:39:12.775427000 : Initiated logon request
+20241011-22:39:12.775804000 : Received logout request
+20241011-22:39:12.775904000 : Sending logout response
+20241011-22:39:12.775917000 : Disconnecting
+20241011-22:39:12.776004000 : Initiated logon request
+20241011-22:39:42.034238000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:39:42.034677000 : Initiated logon request
+20241011-22:39:42.035274000 : Received logout request
+20241011-22:39:42.035406000 : Sending logout response
+20241011-22:39:42.035420000 : Disconnecting
+20241011-22:39:42.035510000 : Initiated logon request
+20241011-22:40:12.137470000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:40:12.137874000 : Initiated logon request
+20241011-22:40:12.138476000 : Received logout request
+20241011-22:40:12.138603000 : Sending logout response
+20241011-22:40:12.138617000 : Disconnecting
+20241011-22:40:12.138750000 : Initiated logon request
+20241011-22:40:42.108779000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:40:42.109152000 : Initiated logon request
+20241011-22:40:42.109465000 : Received logout request
+20241011-22:40:42.109571000 : Sending logout response
+20241011-22:40:42.109585000 : Disconnecting
+20241011-22:40:42.109682000 : Initiated logon request
+20241011-22:41:12.908468000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:41:12.908866000 : Initiated logon request
+20241011-22:41:12.909587000 : Received logout request
+20241011-22:41:12.909726000 : Sending logout response
+20241011-22:41:12.909739000 : Disconnecting
+20241011-22:41:12.909825000 : Initiated logon request
+20241011-22:41:42.615972000 : Connecting to 127.0.0.1 on port 5001 (Source :0)
+20241011-22:41:42.616239000 : Initiated logon request
+20241011-22:41:42.616248000 : Disconnecting
+20241011-22:48:18.342877000 : Created session
+20241011-22:48:18.343247000 : Connecting to 192.168.1.167 on port 8080 (Source :0)
+20241011-22:48:18.343444000 : Initiated logon request
+20241011-22:48:18.344568000 : Received logout request
+20241011-22:48:18.344651000 : Sending logout response
+20241011-22:48:18.344658000 : Disconnecting
+20241011-22:48:18.344715000 : Initiated logon request
+20241011-22:52:07.026999000 : Created session
+20241011-22:52:07.027334000 : Connecting to 192.168.1.167 on port 53 (Source :0)
+20241011-22:52:07.027464000 : Initiated logon request
+20241011-22:52:07.027467000 : Disconnecting
+20241011-22:52:07.027482000 : Connecting to 192.168.1.167 on port 53 (Source :0)
+20241011-22:52:07.027492000 : Disconnecting
+20241011-22:52:37.986071000 : Connecting to 192.168.1.167 on port 53 (Source :0)
+20241011-22:52:37.986750000 : Initiated logon request
+20241011-22:52:37.986767000 : Disconnecting
+20241011-22:53:07.814802000 : Connecting to 192.168.1.167 on port 53 (Source :0)
+20241011-22:53:07.814928000 : Initiated logon request
+20241011-22:53:07.814931000 : Disconnecting
+20241011-22:53:42.547967000 : Created session
+20241011-22:53:42.548293000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241011-22:53:42.548429000 : Initiated logon request
+20241011-22:53:42.548645000 : Received logout request
+20241011-22:53:42.548695000 : Sending logout response
+20241011-22:53:42.548702000 : Disconnecting
+20241011-22:53:42.548781000 : Initiated logon request
+20241011-22:57:44.401690000 : Created session
+20241011-22:57:44.425392000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241011-22:57:44.425658000 : Initiated logon request
+20241011-22:57:44.425932000 : Received logout request
+20241011-22:57:44.425965000 : Sending logout response
+20241011-22:57:44.425968000 : Disconnecting
+20241011-22:57:44.425994000 : Initiated logon request
+20241011-22:58:14.374219000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241011-22:58:14.374620000 : Initiated logon request
+20241011-22:58:14.375071000 : Received logout request
+20241011-22:58:14.375197000 : Sending logout response
+20241011-22:58:14.375206000 : Disconnecting
+20241011-22:58:14.375285000 : Initiated logon request
+20241011-22:58:44.189360000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241011-22:58:44.189734000 : Initiated logon request
+20241011-22:58:44.190260000 : Received logout request
+20241011-22:58:44.190396000 : Sending logout response
+20241011-22:58:44.190405000 : Disconnecting
+20241011-22:58:44.190482000 : Initiated logon request
+20241011-22:59:14.864914000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241011-22:59:14.865272000 : Initiated logon request
+20241011-22:59:14.865795000 : Received logout request
+20241011-22:59:14.865915000 : Sending logout response
+20241011-22:59:14.865923000 : Disconnecting
+20241011-22:59:14.865999000 : Initiated logon request
+20241012-20:09:13.798617000 : Created session
+20241012-20:09:13.825545000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241012-20:09:16.835057000 : Initiated logon request
+20241012-20:09:16.835098000 : Disconnecting
+20241012-20:17:43.999319000 : Created session
+20241012-20:17:44.022829000 : Connecting to 192.168.1.167 on port 5353 (Source :0)
+20241012-21:06:30.827561000 : Created session
+20241012-21:06:30.850921000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:06:30.851066000 : Initiated logon request
+20241012-21:06:30.851069000 : Disconnecting
+20241012-21:06:30.851085000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:06:30.851094000 : Disconnecting
+20241012-21:07:00.807011000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:07:00.807167000 : Initiated logon request
+20241012-21:07:00.807171000 : Disconnecting
+20241012-21:07:30.655160000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:07:30.655478000 : Initiated logon request
+20241012-21:07:30.655505000 : Disconnecting
+20241012-21:08:00.388413000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:08:00.389003000 : Initiated logon request
+20241012-21:08:00.389016000 : Disconnecting
+20241012-21:08:30.975223000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:08:30.975554000 : Initiated logon request
+20241012-21:08:30.975561000 : Disconnecting
+20241012-21:09:00.452655000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:09:00.453014000 : Initiated logon request
+20241012-21:09:00.453023000 : Disconnecting
+20241012-21:09:30.785022000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:09:30.785400000 : Initiated logon request
+20241012-21:09:30.785407000 : Disconnecting
+20241012-21:10:00.015198000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:10:00.015697000 : Initiated logon request
+20241012-21:10:00.015704000 : Disconnecting
+20241012-21:10:30.093341000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:10:30.093671000 : Initiated logon request
+20241012-21:10:30.093678000 : Disconnecting
+20241012-21:11:00.044109000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:11:00.044491000 : Initiated logon request
+20241012-21:11:00.044499000 : Disconnecting
+20241012-21:11:30.827065000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:11:30.827412000 : Initiated logon request
+20241012-21:11:30.827419000 : Disconnecting
+20241012-21:12:00.518558000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:12:00.518884000 : Initiated logon request
+20241012-21:12:00.518890000 : Disconnecting
+20241012-21:12:30.084815000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:12:30.084937000 : Initiated logon request
+20241012-21:12:30.084939000 : Disconnecting
+20241012-21:13:00.485805000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:13:00.486083000 : Initiated logon request
+20241012-21:13:00.486088000 : Disconnecting
+20241012-21:13:30.761409000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:13:30.761737000 : Initiated logon request
+20241012-21:13:30.761743000 : Disconnecting
+20241012-21:14:00.903904000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:14:00.904222000 : Initiated logon request
+20241012-21:14:00.904229000 : Disconnecting
+20241012-21:14:30.912431000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:14:30.912553000 : Initiated logon request
+20241012-21:14:30.912555000 : Disconnecting
+20241012-21:15:00.798682000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:15:00.798998000 : Initiated logon request
+20241012-21:15:00.799005000 : Disconnecting
+20241012-21:15:30.562768000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:15:30.563089000 : Initiated logon request
+20241012-21:15:30.563095000 : Disconnecting
+20241012-21:16:00.198152000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:16:00.198501000 : Initiated logon request
+20241012-21:16:00.198509000 : Disconnecting
+20241012-21:16:30.621712000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:16:30.621851000 : Initiated logon request
+20241012-21:16:30.621853000 : Disconnecting
+20241012-21:17:00.918089000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:17:00.918437000 : Initiated logon request
+20241012-21:17:00.918445000 : Disconnecting
+20241012-21:17:30.141903000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:17:30.142047000 : Initiated logon request
+20241012-21:17:30.142049000 : Disconnecting
+20241012-21:18:00.187907000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:18:00.188238000 : Initiated logon request
+20241012-21:18:00.188244000 : Disconnecting
+20241012-21:18:30.098414000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:18:30.098734000 : Initiated logon request
+20241012-21:18:30.098740000 : Disconnecting
+20241012-21:19:00.771686000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:19:00.772053000 : Initiated logon request
+20241012-21:19:00.772060000 : Disconnecting
+20241012-21:19:30.404205000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:19:30.404544000 : Initiated logon request
+20241012-21:19:30.404550000 : Disconnecting
+20241012-21:20:00.792403000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:20:00.792552000 : Initiated logon request
+20241012-21:20:00.792554000 : Disconnecting
+20241012-21:20:30.156098000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:20:30.156258000 : Initiated logon request
+20241012-21:20:30.156261000 : Disconnecting
+20241012-21:21:00.274729000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:21:00.274894000 : Initiated logon request
+20241012-21:21:00.274896000 : Disconnecting
+20241012-21:21:30.256850000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:21:30.257172000 : Initiated logon request
+20241012-21:21:30.257179000 : Disconnecting
+20241012-21:22:00.101981000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241012-21:22:00.102310000 : Initiated logon request
+20241012-21:22:00.102317000 : Disconnecting
+20241013-13:48:14.461322000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241013-13:48:14.461638000 : Initiated logon request
+20241013-13:48:14.461642000 : Disconnecting
+20241013-18:52:01.488130000 : Connecting to 127.0.0.1 on port 5353 (Source :0)
+20241013-18:52:01.488713000 : Initiated logon request
+20241013-18:52:01.488726000 : Disconnecting
+20241014-11:51:52.298697000 : Created session
+20241014-11:51:52.359967000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241014-11:51:52.360474000 : Initiated logon request
+20241014-11:51:52.361250000 : Received logout request
+20241014-11:51:52.361346000 : Sending logout response
+20241014-11:51:52.361352000 : Disconnecting
+20241014-11:51:52.361411000 : Initiated logon request
+20241014-11:52:22.291664000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241014-11:52:22.292073000 : Initiated logon request
+20241014-11:52:22.292717000 : Received logout request
+20241014-11:52:22.292855000 : Sending logout response
+20241014-11:52:22.292863000 : Disconnecting
+20241014-11:52:22.292953000 : Initiated logon request
+20241014-12:39:21.817637000 : Created session
+20241014-12:39:21.864704000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-12:39:21.865139000 : Initiated logon request
+20241014-12:39:21.865688000 : Received logout request
+20241014-12:39:21.865760000 : Sending logout response
+20241014-12:39:21.865766000 : Disconnecting
+20241014-12:39:21.865823000 : Initiated logon request
+20241014-12:39:51.781136000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-12:39:51.781576000 : Initiated logon request
+20241014-12:39:51.782190000 : Received logout request
+20241014-12:39:51.782318000 : Sending logout response
+20241014-12:39:51.782325000 : Disconnecting
+20241014-12:39:51.782401000 : Initiated logon request
+20241014-13:25:25.952304000 : Created session
+20241014-13:25:26.000617000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241014-13:25:26.000936000 : Initiated logon request
+20241014-13:25:26.001490000 : Received logout request
+20241014-13:25:26.001566000 : Sending logout response
+20241014-13:25:26.001572000 : Disconnecting
+20241014-13:25:26.001627000 : Initiated logon request
+20241014-13:25:52.435573000 : Created session
+20241014-13:25:52.483503000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241014-13:25:52.483993000 : Initiated logon request
+20241014-13:25:52.484440000 : Received logout request
+20241014-13:25:52.484518000 : Sending logout response
+20241014-13:25:52.484524000 : Disconnecting
+20241014-13:25:52.484580000 : Initiated logon request
+20241014-15:39:25.371079000 : Created session
+20241014-15:39:25.424194000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-15:39:25.424667000 : Initiated logon request
+20241014-15:39:25.425195000 : Received logout request
+20241014-15:39:25.425274000 : Sending logout response
+20241014-15:39:25.425280000 : Disconnecting
+20241014-15:39:25.425339000 : Initiated logon request
+20241014-15:47:54.915570000 : Created session
+20241014-15:47:54.967009000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-15:47:54.967386000 : Initiated logon request
+20241014-15:47:54.967826000 : Received logout request
+20241014-15:47:54.967904000 : Sending logout response
+20241014-15:47:54.967910000 : Disconnecting
+20241014-15:47:54.967970000 : Initiated logon request
+20241014-20:43:06.386660000 : Created session
+20241014-20:43:06.436708000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-20:43:06.437130000 : Initiated logon request
+20241014-20:43:06.437649000 : Received logout request
+20241014-20:43:06.437731000 : Sending logout response
+20241014-20:43:06.437738000 : Disconnecting
+20241014-20:43:06.437801000 : Initiated logon request
+20241014-20:43:36.345521000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-20:43:36.345921000 : Initiated logon request
+20241014-20:43:36.346257000 : Received logout request
+20241014-20:43:36.346323000 : Sending logout response
+20241014-20:43:36.346331000 : Disconnecting
+20241014-20:43:36.346401000 : Initiated logon request
+20241014-20:44:06.103444000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-20:44:06.103800000 : Initiated logon request
+20241014-20:44:06.104383000 : Received logout request
+20241014-20:44:06.104550000 : Sending logout response
+20241014-20:44:06.104557000 : Disconnecting
+20241014-20:44:06.104629000 : Initiated logon request
+20241014-20:44:36.683367000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-20:44:36.683774000 : Initiated logon request
+20241014-20:44:36.684345000 : Received logout request
+20241014-20:44:36.684490000 : Sending logout response
+20241014-20:44:36.684498000 : Disconnecting
+20241014-20:44:36.684579000 : Initiated logon request
+20241014-20:45:06.097399000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241014-20:45:06.097945000 : Initiated logon request
+20241014-20:45:06.098418000 : Received logout request
+20241014-20:45:06.098538000 : Sending logout response
+20241014-20:45:06.098553000 : Disconnecting
+20241014-20:45:06.098662000 : Initiated logon request
+20241015-13:34:37.584431000 : Created session
+20241015-13:34:37.612989000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:34:37.613305000 : Initiated logon request
+20241015-13:34:37.613308000 : Disconnecting
+20241015-13:34:37.613329000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:34:37.613340000 : Disconnecting
+20241015-13:40:39.779217000 : Created session
+20241015-13:40:39.802776000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:40:39.802939000 : Initiated logon request
+20241015-13:40:39.802942000 : Disconnecting
+20241015-13:40:39.802961000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:40:39.802971000 : Disconnecting
+20241015-13:45:34.961698000 : Created session
+20241015-13:45:34.984709000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:45:34.984939000 : Initiated logon request
+20241015-13:45:34.992445000 : Received logout request
+20241015-13:45:34.992484000 : Sending logout response
+20241015-13:45:34.992486000 : Disconnecting
+20241015-13:45:34.992525000 : Initiated logon request
+20241015-13:47:14.775382000 : Created session
+20241015-13:47:14.802651000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:47:14.802849000 : Initiated logon request
+20241015-13:47:14.802851000 : Disconnecting
+20241015-13:47:14.802877000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:47:14.802887000 : Disconnecting
+20241015-13:47:32.545371000 : Created session
+20241015-13:47:32.570662000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:47:32.570898000 : Initiated logon request
+20241015-13:47:32.571069000 : Received logout request
+20241015-13:47:32.571093000 : Sending logout response
+20241015-13:47:32.571097000 : Disconnecting
+20241015-13:47:32.571140000 : Initiated logon request
+20241015-13:50:22.730639000 : Created session
+20241015-13:50:22.757980000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:50:22.758146000 : Initiated logon request
+20241015-13:50:22.758156000 : Disconnecting
+20241015-13:50:22.758179000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:50:22.758189000 : Disconnecting
+20241015-13:54:53.699231000 : Created session
+20241015-13:54:53.723028000 : Connecting to 10.74.83.23 on port 8080 (Source :0)
+20241015-13:54:53.723261000 : Initiated logon request
+20241015-13:54:53.723523000 : Received logout request
+20241015-13:54:53.723562000 : Sending logout response
+20241015-13:54:53.723565000 : Disconnecting
+20241015-13:54:53.723600000 : Initiated logon request
+20241015-13:56:30.677189000 : Created session
+20241015-13:56:30.705917000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-13:56:30.706116000 : Initiated logon request
+20241015-13:56:30.706416000 : Received logout request
+20241015-13:56:30.706447000 : Sending logout response
+20241015-13:56:30.706450000 : Disconnecting
+20241015-13:56:30.706480000 : Initiated logon request
+20241015-14:48:32.342234000 : Created session
+20241015-14:48:32.368785000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-14:48:32.369028000 : Initiated logon request
+20241015-14:48:32.369317000 : Received logout request
+20241015-14:48:32.369352000 : Sending logout response
+20241015-14:48:32.369355000 : Disconnecting
+20241015-14:48:32.369403000 : Initiated logon request
+20241015-15:45:26.304952000 : Created session
+20241015-15:45:26.334482000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-15:45:26.334679000 : Initiated logon request
+20241015-15:45:26.334992000 : Received logout request
+20241015-15:45:26.335039000 : Sending logout response
+20241015-15:45:26.335042000 : Disconnecting
+20241015-15:45:26.335077000 : Initiated logon request
+20241015-15:45:29.672660000 : Created session
+20241015-15:45:29.698715000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-15:45:29.699007000 : Initiated logon request
+20241015-15:45:29.699201000 : Received logout request
+20241015-15:45:29.699238000 : Sending logout response
+20241015-15:45:29.699241000 : Disconnecting
+20241015-15:45:29.699273000 : Initiated logon request
+20241015-16:04:29.016719000 : Created session
+20241015-16:04:29.042849000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-16:04:29.043145000 : Initiated logon request
+20241015-16:04:29.043416000 : Received logout request
+20241015-16:04:29.043452000 : Sending logout response
+20241015-16:04:29.043455000 : Disconnecting
+20241015-16:04:29.043490000 : Initiated logon request
+20241015-16:27:11.095268000 : Created session
+20241015-16:27:11.119547000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-16:27:11.119761000 : Initiated logon request
+20241015-16:27:11.120064000 : Received logout request
+20241015-16:27:11.120098000 : Sending logout response
+20241015-16:27:11.120101000 : Disconnecting
+20241015-16:27:11.120134000 : Initiated logon request
+20241015-16:27:18.123183000 : Created session
+20241015-16:27:18.148478000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-16:27:18.148667000 : Initiated logon request
+20241015-16:27:18.148826000 : Received logout request
+20241015-16:27:18.148845000 : Sending logout response
+20241015-16:27:18.148848000 : Disconnecting
+20241015-16:27:18.148877000 : Initiated logon request
+20241015-16:27:21.060808000 : Created session
+20241015-16:27:21.085607000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-16:27:21.085776000 : Initiated logon request
+20241015-16:27:21.085880000 : Received logout request
+20241015-16:27:21.085894000 : Sending logout response
+20241015-16:27:21.085897000 : Disconnecting
+20241015-16:27:21.085921000 : Initiated logon request
+20241015-16:45:51.951110000 : Created session
+20241015-16:45:51.976013000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-16:45:51.976212000 : Initiated logon request
+20241015-16:45:51.976450000 : Received logout request
+20241015-16:45:51.976485000 : Sending logout response
+20241015-16:45:51.976487000 : Disconnecting
+20241015-16:45:51.976515000 : Initiated logon request
+20241015-19:10:00.395362000 : Created session
+20241015-19:10:00.422050000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-19:10:00.422341000 : Initiated logon request
+20241015-19:10:00.422724000 : Received logout request
+20241015-19:10:00.422795000 : Sending logout response
+20241015-19:10:00.422802000 : Disconnecting
+20241015-19:10:00.422858000 : Initiated logon request
+20241015-19:53:52.905983000 : Created session
+20241015-19:53:52.933216000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-19:53:52.933424000 : Initiated logon request
+20241015-19:53:52.933427000 : Disconnecting
+20241015-19:53:52.933462000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-19:53:52.933473000 : Disconnecting
+20241015-19:55:06.624160000 : Created session
+20241015-19:55:06.649004000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-19:55:06.649224000 : Initiated logon request
+20241015-19:55:06.649470000 : Received logout request
+20241015-19:55:06.649517000 : Sending logout response
+20241015-19:55:06.649520000 : Disconnecting
+20241015-19:55:06.649564000 : Initiated logon request
+20241015-22:24:39.707405000 : Created session
+20241015-22:24:39.707741000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241015-22:24:39.707879000 : Initiated logon request
+20241015-22:24:39.708144000 : Received logon response
+20241015-22:24:39.708174000 : Received ResendRequest FROM: 15 TO: 0
+20241015-22:24:39.708274000 : Sent SequenceReset TO: 49
+20241015-22:24:54.570615000 : Socket Error: Connection reset by peer.
+20241015-22:24:54.570656000 : Disconnecting
+20241017-19:11:23.825443000 : Created session
+20241017-19:11:23.826050000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241017-19:11:23.826793000 : Initiated logon request
+20241017-19:11:23.827873000 : Received logon response
+20241017-19:27:52.690850000 : Created session
+20241017-19:27:52.691167000 : Connecting to 127.0.0.1 on port 8080 (Source :0)
+20241017-19:27:52.691365000 : Initiated logon request
+20241017-19:27:52.691679000 : Received logon response
